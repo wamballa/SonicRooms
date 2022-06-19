@@ -7,6 +7,7 @@
  * 
  * 
  * https://sketchfab.com/3d-models/sonic-the-hedgehog-45a0e73c23e547e89361d99b7d8d88b1
+ * "Tails of sonic" (https://skfb.ly/XHWp) by Andres Zuluaga is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).es/by/4.0/).
  */
 
 
